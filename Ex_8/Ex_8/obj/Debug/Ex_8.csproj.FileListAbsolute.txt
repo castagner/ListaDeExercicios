@@ -1,0 +1,6 @@
+E:\Topicos I _ DotNet\Lista 1\Ex_8\Ex_8\obj\Debug\Ex_8.csproj.CoreCompileInputs.cache
+E:\Topicos I _ DotNet\Lista 1\Ex_8\Ex_8\bin\Debug\Ex_8.exe.config
+E:\Topicos I _ DotNet\Lista 1\Ex_8\Ex_8\bin\Debug\Ex_8.exe
+E:\Topicos I _ DotNet\Lista 1\Ex_8\Ex_8\bin\Debug\Ex_8.pdb
+E:\Topicos I _ DotNet\Lista 1\Ex_8\Ex_8\obj\Debug\Ex_8.exe
+E:\Topicos I _ DotNet\Lista 1\Ex_8\Ex_8\obj\Debug\Ex_8.pdb

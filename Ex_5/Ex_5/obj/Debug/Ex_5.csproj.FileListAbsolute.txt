@@ -1,0 +1,7 @@
+E:\Topicos I _ DotNet\Lista 1\Ex_5\Ex_5\bin\Debug\Ex_5.exe.config
+E:\Topicos I _ DotNet\Lista 1\Ex_5\Ex_5\bin\Debug\Ex_5.exe
+E:\Topicos I _ DotNet\Lista 1\Ex_5\Ex_5\bin\Debug\Ex_5.pdb
+E:\Topicos I _ DotNet\Lista 1\Ex_5\Ex_5\obj\Debug\Ex_5.csprojResolveAssemblyReference.cache
+E:\Topicos I _ DotNet\Lista 1\Ex_5\Ex_5\obj\Debug\Ex_5.csproj.CoreCompileInputs.cache
+E:\Topicos I _ DotNet\Lista 1\Ex_5\Ex_5\obj\Debug\Ex_5.exe
+E:\Topicos I _ DotNet\Lista 1\Ex_5\Ex_5\obj\Debug\Ex_5.pdb

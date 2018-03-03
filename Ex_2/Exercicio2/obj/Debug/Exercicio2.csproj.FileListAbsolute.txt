@@ -1,0 +1,7 @@
+E:\Topicos I _ DotNet\Lista 1\Exercicio2\Exercicio2\bin\Debug\Exercicio2.exe.config
+E:\Topicos I _ DotNet\Lista 1\Exercicio2\Exercicio2\bin\Debug\Exercicio2.exe
+E:\Topicos I _ DotNet\Lista 1\Exercicio2\Exercicio2\bin\Debug\Exercicio2.pdb
+E:\Topicos I _ DotNet\Lista 1\Exercicio2\Exercicio2\obj\Debug\Exercicio2.csprojResolveAssemblyReference.cache
+E:\Topicos I _ DotNet\Lista 1\Exercicio2\Exercicio2\obj\Debug\Exercicio2.csproj.CoreCompileInputs.cache
+E:\Topicos I _ DotNet\Lista 1\Exercicio2\Exercicio2\obj\Debug\Exercicio2.exe
+E:\Topicos I _ DotNet\Lista 1\Exercicio2\Exercicio2\obj\Debug\Exercicio2.pdb

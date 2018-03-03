@@ -1,0 +1,7 @@
+E:\Topicos I _ DotNet\Lista 1\Ex_6\Ex_6\bin\Debug\Ex_6.exe.config
+E:\Topicos I _ DotNet\Lista 1\Ex_6\Ex_6\bin\Debug\Ex_6.exe
+E:\Topicos I _ DotNet\Lista 1\Ex_6\Ex_6\bin\Debug\Ex_6.pdb
+E:\Topicos I _ DotNet\Lista 1\Ex_6\Ex_6\obj\Debug\Ex_6.csprojResolveAssemblyReference.cache
+E:\Topicos I _ DotNet\Lista 1\Ex_6\Ex_6\obj\Debug\Ex_6.csproj.CoreCompileInputs.cache
+E:\Topicos I _ DotNet\Lista 1\Ex_6\Ex_6\obj\Debug\Ex_6.exe
+E:\Topicos I _ DotNet\Lista 1\Ex_6\Ex_6\obj\Debug\Ex_6.pdb
